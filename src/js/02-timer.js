@@ -75,7 +75,6 @@ function onStartButtonClick() {
 }
 
 function onResetButtonClick() {
-  // selectors.startButton.disabled = true;
   clearTimeCounter();
 }
 
